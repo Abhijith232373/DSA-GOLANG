@@ -1,7 +1,8 @@
+
 <img align="left" src="Img/goimg-removebg-preview.png" width="120">
 
-# DSA &  Memory Management in Go
-
+#  <mark>DSA &  MEMORY MANAGEMENT IN GO <mark/>
+***
 
 ## Day-1
 
