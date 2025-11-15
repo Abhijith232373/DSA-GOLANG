@@ -8,17 +8,17 @@
 
 - [x] Modify a variable via pointer
 
-- [ ] Practice dynamic allocation using `new` and `make`
+- [x] Practice dynamic allocation using `new` and `make`
 
-- [ ] Analyze complexity of finding the max element in an array
+- [x] Analyze complexity of finding the max element in an array
 
 ## Day-2
 
-- [ ] Implement insert & delete at any index
+- [x] Implement insert & delete at any index
 
-- [ ] Write a function to reverse an array
+- [x] Write a function to reverse an array
 
-- [ ] Solve 3 array problems (Two Sum, Merge Sorted Arrays, Rotate Array)
+- [x] Solve 3 array problems (Two Sum, Merge Sorted Arrays, Rotate Array)
 
 ## Day-3
 
