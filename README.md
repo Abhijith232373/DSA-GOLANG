@@ -22,7 +22,7 @@
 
 ## Day-3
 
-- [ ] Build Singly Linked List with Insert, Delete, Search
+- [x] Build Singly Linked List with Insert, Delete, Search
 
 - [ ] Convert Array → Linked List
 
