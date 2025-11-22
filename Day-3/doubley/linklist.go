@@ -24,7 +24,7 @@ func (l *DoublyLinkedList)inserFront(val int){
 	l.Head=newNode
 }
 
-func (l *DoublyLinkedList)Deletelast(){
+func(l *DoublyLinkedList)Deletelast(){
 	if l.Head==nil{
 		return
 	}
