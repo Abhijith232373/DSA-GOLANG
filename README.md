@@ -24,17 +24,17 @@
 
 - [x] Build Singly Linked List with Insert, Delete, Search
 
-- [ ] Convert Array → Linked List
+- [x] Convert Array → Linked List
 
-- [ ] Implement Doubly Linked List with InsertFront & DeleteLast
+- [x] Implement Doubly Linked List with InsertFront & DeleteLast
 
 - [ ] Solve 3 linked-list problems (Remove Duplicates, Detect Cycle, Reverse List)
 
 ## Day-4
 
-- [ ] Implement Stack using array and linked list
+- [x] Implement Stack using array and linked list
 
-- [ ] Implement Queue using array and linked list
+- [x] Implement Queue using array and linked list
 
 - [ ] Solve 3 problems → Valid Parentheses, Next Greater Element, Sliding Window Maximum
 
