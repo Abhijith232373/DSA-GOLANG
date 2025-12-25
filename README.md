@@ -28,7 +28,7 @@
 
 - [x] Implement Doubly Linked List with InsertFront & DeleteLast
 
-- [ ] Solve 3 linked-list problems (Remove Duplicates, Detect Cycle, Reverse List)
+- [x] Solve 3 linked-list problems (Remove Duplicates, Detect Cycle, Reverse List)
 
 ## Day-4
 
